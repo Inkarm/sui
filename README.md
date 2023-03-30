@@ -1,30 +1,4 @@
-<p align="center">
-  <a href="https://docs.sui.io/">
-    <img src="https://github.com/MystenLabs/sui/blob/main/doc/static/Sui_Icon_Brand.png" alt="Logo" width="80" height="80">
-  </a>
-  
-  <h3 align="center">Sui</h3>
 
-  <p align="center">
-    Welcome to Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model.
-    <br />
-    <a href="#"><strong>Explore more about Sui »</strong></a>
-    <br />
-    <br />
-    <a href="https://discord.gg/sui">Community</a>
-    ·
-    <a href="https://docs.sui.io/">Docs</a>
-  </p>
-</p>
-<hr>
-
-|             |             |
-| ----------- | ----------- |
-| Welcome to Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the [Move programming language](https://github.com/MystenLabs/awesome-move)! Find everything you need within the [Sui Developer Guides](doc/src/learn/index.md) and supporting materials below.      | <img src="doc/static/Sui_Icon_Brand.png" alt="sui_icon" width="200"/>      |
-
-## Quick links
-
-* To learn how to use Sui, take our [end-to-end tutorial](doc/src/explore/tutorials.md).
 * To jump right into building smart contract applications on top of Sui, start at the [Move Smart Contract Quick Start](doc/src/build/move/index.md).
 * To experiment with the Sui CLI client, check out [Sui CLI client Quick Start](doc/src/build/cli-client.md).
 * To understand what's possible by browsing Move code built on top of Sui, review the [examples](doc/src/explore/examples.md).
